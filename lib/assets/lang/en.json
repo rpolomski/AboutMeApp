@@ -1,0 +1,66 @@
+{
+  "drawer": {
+    "robert": "Robert's app",
+    "about_me": "About me",
+    "map": "Map",
+    "trip": "My trips",
+    "settings": "Settings",
+    "logout": "Log out"
+  },
+  "settings": {
+    "dark_mode": "Dark Mode",
+    "language": "Language"
+  },
+  "map": {
+    "rydultowy": "Rydułtowy",
+    "a_rydultowy": "This is where I'm from, where I live",
+    "gliwice": "Gliwice",
+    "a_gliwice": "The city where I studied",
+    "bytom": "Bytom",
+    "a_bytom": "This is where my girlfriend lives, I often visit"
+  },
+  "trip": {
+    "florencja": "Florence",
+    "a_florencja": "City with beautiful architecture",
+    "san_marino": "San Marino",
+    "a_san_marino": "Beautiful mountainous country",
+    "azory": "Azores",
+    "a_azory": "Green islands",
+    "malaga": "Malaga",
+    "a_malaga": "Sunny Andalusia",
+    "gibraltar": "Gibraltar",
+    "a_gibraltar": "Interesting country"
+  },
+  "main": {
+  "hi": "Hello!",
+  "about_me": "My name is Robert Połomski, and I’m an aspiring mobile application developer with a passion for creating functional and modern solutions. I primarily work with Flutter and Kotlin, and my goal is to continuously improve my skills in building innovative and user-friendly applications.\n\nOver the past year, I’ve worked as a PLC programmer, collaborating as a subcontractor with KUKA on projects for major companies like Stellantis and BMW. During this time, I gained valuable experience in industrial automation, designing PLC programs, and working with advanced robotics systems. This allowed me to expand my engineering skills and broaden my knowledge in the field of industrial technology.\n\nI hold a Master’s degree in Teleinformatics from the Silesian University of Technology, where I built a solid theoretical foundation that I now apply in my professional work and personal projects.\n\nOutside of programming, I’m an active individual who loves to travel, explore new places, and experience different cultures. I’m also passionate about sports, especially indoor rock climbing, which teaches me concentration, perseverance, and overcoming challenges. In my free time, I enjoy DIY projects – building and fixing things brings me great satisfaction and sparks my creativity. I also keep up with the latest technological trends and enjoy incorporating them into my work, whether in my job or personal projects.\n\nI’m a problem-solver who isn’t afraid of challenges and always looks for new ways to improve processes. I believe that my experience in programming and teamwork will allow me to continue growing and working on ambitious projects."
+},
+  "places": {
+    "florencja": "Florence is a city that dazzles with its art, history, and architecture. You must visit the famous cathedral, Santa Maria del Fiore, with its impressive dome designed by Filippo Brunelleschi. The city's streets are full of artwork, and the Uffizi Gallery is one of the most important museums in the world, where you can see paintings by masters like Leonardo da Vinci and Botticelli. The Ponte Vecchio, known as the goldsmiths' bridge, is a perfect spot for a stroll along the Arno River. Florence is a city where the Renaissance history still lives in every corner.",
+    "san_marino": "San Marino is one of the smallest countries in the world but full of charm. It features a beautiful old town, with three medieval towers, visible from almost every corner of the country. Walking through narrow streets, you’ll feel transported to another time. San Marino is also a place where traditions and culture are highly valued. It’s perfect for discovering historic sites like the Presidential Palace or the Basilica of St. Mary. The stunning views from the mountain peaks are unforgettable.",
+    "azory": "The Azores are a group of volcanic islands that offer breathtaking landscapes and a close connection with nature. Green hills, volcanic lakes, and waterfalls make this place seem like a paradise for nature lovers. Ponta Delgada, the archipelago’s main city, is a great base for exploring the islands. It’s worth going on hikes through volcanic craters, visiting hot springs, or trying traditional Azorean cuisine. The Azores are also an excellent spot for whale and dolphin watching.",
+    "malaga": "Malaga is one of the most beautiful cities in Andalusia, known for its Mediterranean climate. You should see the impressive Alcazaba, a Moorish fortress with views of the city, as well as the Gibralfaro Castle, which offers stunning views of the coastline. Walking through the picturesque Old Town, you can discover numerous shops, cafes, and restaurants. It’s also worth visiting the Picasso Museum, as Malaga is the birthplace of the famous artist. Malaga is an ideal place to relax on the beach and explore historical landmarks",
+    "gibraltar": "Gibraltar is a small but very distinctive peninsula, blending history, nature, and culture. The most recognizable feature is the Rock of Gibraltar, where you can take a cable car to enjoy breathtaking views of the Mediterranean Sea and the Atlantic Ocean. It’s also home to the famous Barbary macaques, which inhabit the area. Gibraltar has a rich history, where British, Spanish, and Moorish influences intertwine. The area also offers beautiful beaches and historic sites, such as the Moorish Castle."
+  },
+  "login": {
+    "username": "Username",
+    "password": "Password",
+    "login": "Login",
+    "register": "Register",
+    "error": {
+      "wrong": "Invalid username or password",
+      "empty": "Username and Password cannot be empty"
+    }
+  },
+  "register": {
+    "username": "Username",
+    "password": "Password",
+    "register": "Register",
+    "confirm_password": "Confirm password",
+    "error": {
+      "empty": "Username and Password cannot be empty",
+      "mismatch": "Passwords do not match",
+      "exist": "User already exists"
+    }
+  }
+}

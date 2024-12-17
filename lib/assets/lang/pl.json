@@ -1,0 +1,66 @@
+{
+  "drawer": {
+    "robert": "Aplikkacja o Robercie",
+    "about_me": "O mnie",
+    "map": "Mapa",
+    "trip": "Moje wyjazdy",
+    "settings": "Ustawienia",
+    "logout": "Wyloguj"
+  },
+  "settings": {
+    "dark_mode": "Tryb ciemny",
+    "language": "Język"
+  },
+  "map": {
+    "rydultowy": "Rydułtowy",
+    "a_rydultowy": "Stąd pochodzę, tu mieszkam",
+    "gliwice": "Gliwice",
+    "a_gliwice": "Miasto gdzie studiowałem",
+    "bytom": "Bytom",
+    "a_bytom": "Tu mieszka moja dziewczyna, często tu jestem"
+  },
+  "trip": {
+    "florencja": "Florencja",
+    "a_florencja": "Miasto z piękną architekturą",
+    "san_marino": "San Marino",
+    "a_san_marino": "Piękny górzysty kraj",
+    "azory": "Azory",
+    "a_azory": "Zielone wyspy",
+    "malaga": "Malaga",
+    "a_malaga": "Słoneczna Andaluzja",
+    "gibraltar": "Gibraltar",
+    "a_gibraltar": "Ciekawy kraj"
+  },
+  "main": {
+    "hi": "Cześć",
+    "about_me": "Nazywam się Robert Połomski i jestem młodym, ale pełnym pasji deweloperem aplikacji mobilnych. Głównie tworzę aplikacje w Flutterze oraz Kotlinie, a moim celem jest ciągłe doskonalenie swoich umiejętności w zakresie tworzenia nowoczesnych i funkcjonalnych rozwiązań.\n\nOstatni rok spędziłem jako programista PLC, gdzie współpracowałem jako podwykonawca firmy KUKA, realizując projekty dla takich gigantów jak Stellantis czy BMW. Podczas tej pracy zdobyłem cenne doświadczenie w obszarze automatyki przemysłowej, projektowania sterowników oraz pracy z zaawansowanymi systemami robotycznymi, co poszerzyło moje umiejętności inżynierskie i pozwoliło na rozwój w branży technologii przemysłowych.\n\nJestem magistrem inżynierem na kierunku Teleinformatyka na Politechnice Śląskiej. To tam zdobyłem solidną wiedzę teoretyczną, którą staram się łączyć z praktycznymi umiejętnościami zdobytymi w pracy zawodowej i podczas realizowania własnych projektów programistycznych.\n\nPoza programowaniem, jestem osobą, która ceni aktywny tryb życia. Lubię podróżować, zwiedzać nowe miejsca i poznawać różne kultury. Moją pasją są także sporty, szczególnie wspinaczka na ściance, która uczy mnie koncentracji, wytrwałości i pokonywania własnych ograniczeń. W wolnym czasie często także majsterkuję – budowanie i naprawianie różnych rzeczy daje mi ogromną satysfakcję i rozwija moją kreatywność. Interesuję się także nowymi technologiami, śledzę branżowe nowinki i staram się wdrażać je w życie, zarówno w pracy zawodowej, jak i w projektach prywatnych.\n\nJestem osobą, która nie boi się wyzwań, lubię rozwiązywać problemy i szukam nowych sposobów na usprawnienie pracy. Wierzę, że moje doświadczenie zarówno w programowaniu, jak i w pracy zespołowej, pozwoli mi na dalszy rozwój i realizowanie ambitnych projektów."
+  },
+  "places": {
+    "florencja": "Florencja to miasto, które zachwyca swoją sztuką, historią i architekturą. Warto odwiedzić słynną katedrę Santa Maria del Fiore z imponującą kopułą, którą zaprojektował Filippo Brunelleschi. Ulice miasta pełne są dzieł sztuki, a Galeria Uffizi to jedno z najważniejszych muzeów na świecie, gdzie można zobaczyć obrazy takich mistrzów jak Leonardo da Vinci czy Botticelli. Most Ponte Vecchio, zwany mostem złotników, to idealne miejsce na spacer nad rzeką Arno. Florencja to miasto, w którym historia Renesansu wciąż żyje w każdym zakątku.",
+    "san_marino": "San Marino to jedno z najmniejszych państw na świecie, ale pełne uroku. Znajduje się tu przepiękna starówka, której charakterystycznym punktem są trzy średniowieczne wieże, widoczne z niemal każdego miejsca w kraju. Spacerując po wąskich uliczkach, można poczuć się jak w innej epoce. San Marino to także miejsce, w którym tradycje i kultura są bardzo ważne. To idealne miejsce na odkrywanie historycznych miejsc, takich jak Pałac Prezydencki czy Bazylika Świętego Marii. Piękne widoki z górskich szczytów to niezapomniana atrakcja.",
+    "azory": "Azory to grupa wysp wulkanicznych, które oferują niesamowite widoki i kontakt z naturą. Zielone krajobrazy, wulkaniczne jeziora i wodospady sprawiają, że to miejsce wydaje się być idealnym rajem dla miłośników przyrody. Ponta Delgada, główne miasto archipelagu, to świetna baza wypadowa na eksplorację wysp. Warto wybrać się na wędrówki po kraterach wulkanicznych, odwiedzić gorące źródła czy spróbować tradycyjnej azorskiej kuchni. Azory to także doskonałe miejsce do obserwowania wielorybów i delfinów.",
+    "malaga": "Malaga to jedno z najpiękniejszych miast Andaluzji, znane ze swojego śródziemnomorskiego klimatu. Warto zobaczyć imponującą Alcazabę – mauretańską twierdzę z widokiem na miasto, oraz zamek Gibralfaro, skąd rozciąga się niesamowity widok na wybrzeże. Spacerując po malowniczych uliczkach Starego Miasta, można odkrywać liczne sklepy, kawiarnie i restauracje. Warto również odwiedzić muzeum Picassa, ponieważ Malaga to miasto, w którym urodził się ten słynny malarz. Malaga to idealne miejsce na relaks na plaży oraz zwiedzanie historycznych zabytków.",
+    "gibraltar": "Gibraltar to mały, ale bardzo charakterystyczny półwysep, który łączy w sobie historię, naturę i kulturę. Najbardziej rozpoznawalnym punktem jest Skała Gibraltarska, na którą można wjechać kolejką, aby podziwiać zapierające dech w piersiach widoki na Morze Śródziemne i Ocean Atlantycki. Warto również spotkać słynne małpy magoty, które zamieszkują ten rejon. Gibraltar to także miejsce o bogatej historii, gdzie przeplatają się wpływy brytyjskie, hiszpańskie i mauretańskie. W okolicy znajdują się też piękne plaże i zabytki, takie jak twierdza Moorish Castle."
+  },
+  "login": {
+    "username": "Nazwa użytkownika",
+    "password": "Hasło",
+    "login": "Zaloguj",
+    "register": "Zarejestruj się",
+    "error": {
+      "wrong": "Zła nazwa użytkownika lub hasło",
+      "empty": "Nazwa użytkownika i hasło nie moga być puste"
+    }
+  },
+  "register": {
+    "username": "Nazwa użytkownika",
+    "password": "Hasło",
+    "confirm_password": "Potwierdź hasło",
+    "register": "Zarejestruj się",
+    "error": {
+      "empty": "Nazwa użytkownika i hasło nie moga być puste",
+      "mismatch": "Hasła są różne",
+      "exist": "Użytkownik istnieje"
+    }
+  }
+}
